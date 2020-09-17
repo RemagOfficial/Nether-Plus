@@ -1,0 +1,13 @@
+{
+  "group": "netherplus",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "netherplus:warped_hyphae"
+    }
+  ],
+  "result": {
+    "item": "netherplus:warped_planks",
+    "count": 4
+  }
+}

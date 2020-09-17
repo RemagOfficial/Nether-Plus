@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "netherplus:blocks/crimson_planks",
+    "particle": "netherplus:blocks/crimson_planks"
+  }
+}

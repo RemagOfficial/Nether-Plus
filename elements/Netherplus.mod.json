@@ -1,0 +1,53 @@
+{
+  "_fv": 11,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "Blocks.OBSIDIAN"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 0.0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Flint And Steel",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "flint_and_steel",
+    "portalTexture": "netherplus_portal",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:WarpedForest"
+      },
+      {
+        "value": "CUSTOM:CrimsonForest"
+      },
+      {
+        "value": "nether"
+      }
+    ],
+    "worldGenType": "Nether like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.NETHERRACK"
+    },
+    "fluidBlock": {
+      "value": "Blocks.LAVA"
+    },
+    "airColor": {
+      "value": -13433081,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "hasWeather": false,
+    "isDark": false,
+    "doesWaterVaporize": true,
+    "sleepResult": "BED_EXPLODES",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false
+  }
+}

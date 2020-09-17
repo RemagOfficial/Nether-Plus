@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "netherplus:blocks/netherrack",
+    "up": "netherplus:blocks/warped_nylium",
+    "north": "netherplus:blocks/warped_nylium_side",
+    "east": "netherplus:blocks/warped_nylium_side",
+    "south": "netherplus:blocks/warped_nylium_side",
+    "west": "netherplus:blocks/warped_nylium_side",
+    "particle": "netherplus:blocks/netherrack"
+  }
+}

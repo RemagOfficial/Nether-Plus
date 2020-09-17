@@ -1,0 +1,71 @@
+{
+  "_fv": 11,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "nothing",
+    "customModelName": "Cross model",
+    "plantType": "normal",
+    "staticPlantGenerationType": "Flower",
+    "growapableSpawnType": "Nether",
+    "growapableMaxHeight": 3,
+    "name": "Blue Tree Spawn 2",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "GROUND"
+    },
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "forceTicking": true,
+    "emissiveRendering": false,
+    "hasTileEntity": false,
+    "isReplaceable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 25,
+    "spawnWorldTypes": [
+      "CUSTOM:Netherplus"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:WarpedForest"
+      }
+    ],
+    "onNeighbourBlockChanges": {
+      "name": "BlueTreeSpawn2UpdateTick"
+    },
+    "onTickUpdate": {
+      "name": "BlueTreeSpawn2UpdateTick"
+    },
+    "onDestroyedByPlayer": {
+      "name": "BlueTreeSpawn2UpdateTick"
+    },
+    "onDestroyedByExplosion": {
+      "name": "BlueTreeSpawn2UpdateTick"
+    },
+    "onStartToDestroy": {
+      "name": "BlueTreeSpawn2UpdateTick"
+    },
+    "onEntityCollides": {
+      "name": "BlueTreeSpawn2UpdateTick"
+    },
+    "onRightClicked": {
+      "name": "BlueTreeSpawn2UpdateTick"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom_rh",
+  "textures": {
+    "bottom": "netherplus:blocks/crimson_door_bottom",
+    "top": "netherplus:blocks/crimson_door_top"
+  }
+}

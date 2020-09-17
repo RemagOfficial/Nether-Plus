@@ -1,0 +1,38 @@
+{
+  "equip_netherite1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "netherplus:equip_netherite1",
+        "stream": false
+      }
+    ]
+  },
+  "equip_netherite2": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "netherplus:equip_netherite2",
+        "stream": false
+      }
+    ]
+  },
+  "equip_netherite3": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "netherplus:equip_netherite3",
+        "stream": false
+      }
+    ]
+  },
+  "equip_netherite4": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "netherplus:equip_netherite4",
+        "stream": false
+      }
+    ]
+  }
+}

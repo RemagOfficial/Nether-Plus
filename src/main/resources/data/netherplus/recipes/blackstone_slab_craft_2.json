@@ -1,0 +1,22 @@
+{
+  "group": "netherplus",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "netherplus:blackstone"
+    },
+    "1": {
+      "item": "netherplus:blackstone"
+    },
+    "2": {
+      "item": "netherplus:blackstone"
+    }
+  },
+  "result": {
+    "item": "netherplus:blackstone_slab",
+    "count": 6
+  }
+}

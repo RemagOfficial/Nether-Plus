@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "netherplus:blocks/smithing_table_bottom",
+    "up": "netherplus:blocks/smithing_table_top",
+    "north": "netherplus:blocks/smithing_table_front",
+    "east": "netherplus:blocks/smithing_table_side",
+    "south": "netherplus:blocks/smithing_table_front",
+    "west": "netherplus:blocks/smithing_table_side",
+    "particle": "netherplus:blocks/smithing_table_bottom"
+  }
+}

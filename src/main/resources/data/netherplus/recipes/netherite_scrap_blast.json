@@ -1,0 +1,12 @@
+{
+  "group": "netherplus",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "netherplus:ancient_debris"
+  },
+  "result": {
+    "item": "netherplus:netherite_scrap"
+  }
+}

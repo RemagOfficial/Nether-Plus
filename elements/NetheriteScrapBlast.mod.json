@@ -1,0 +1,20 @@
+{
+  "_fv": 11,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 1.0,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:AncientDebris"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:NetheriteScrap"
+    },
+    "name": "netherite_scrap_blast",
+    "namespace": "mod"
+  }
+}

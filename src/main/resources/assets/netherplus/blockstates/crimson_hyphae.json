@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "netherplus:block/crimson_hyphae"
+    },
+    "facing=north": {
+      "model": "netherplus:block/crimson_hyphae"
+    },
+    "facing=east": {
+      "model": "netherplus:block/crimson_hyphae",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "netherplus:block/crimson_hyphae",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "netherplus:block/crimson_hyphae",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "netherplus:block/crimson_hyphae",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

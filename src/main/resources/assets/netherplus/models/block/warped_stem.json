@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "netherplus:blocks/warped_stem_top",
+    "up": "netherplus:blocks/warped_stem_top",
+    "north": "netherplus:blocks/warped_stem",
+    "east": "netherplus:blocks/warped_stem",
+    "south": "netherplus:blocks/warped_stem",
+    "west": "netherplus:blocks/warped_stem",
+    "particle": "netherplus:blocks/warped_stem_top"
+  }
+}

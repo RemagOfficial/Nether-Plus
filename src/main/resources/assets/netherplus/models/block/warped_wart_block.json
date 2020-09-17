@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "netherplus:blocks/warped_wart_block",
+    "particle": "netherplus:blocks/warped_wart_block"
+  }
+}

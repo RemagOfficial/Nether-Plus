@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "netherplus:blocks/crimson_fungi",
+    "particle": "netherplus:blocks/crimson_fungi"
+  }
+}

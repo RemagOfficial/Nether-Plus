@@ -1,0 +1,31 @@
+{
+  "_fv": 11,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:NetheriteAxe"
+      },
+      {
+        "value": "Items.WOODEN_AXE"
+      },
+      {
+        "value": "Items.STONE_AXE"
+      },
+      {
+        "value": "Items.IRON_AXE"
+      },
+      {
+        "value": "Items.GOLDEN_AXE"
+      },
+      {
+        "value": "Items.DIAMOND_AXE"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "axes",
+    "namespace": "mod"
+  }
+}

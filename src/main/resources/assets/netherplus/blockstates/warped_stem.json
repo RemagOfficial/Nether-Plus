@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "netherplus:block/warped_stem"
+    },
+    "facing=north": {
+      "model": "netherplus:block/warped_stem"
+    },
+    "facing=east": {
+      "model": "netherplus:block/warped_stem",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "netherplus:block/warped_stem",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "netherplus:block/warped_stem",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "netherplus:block/warped_stem",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

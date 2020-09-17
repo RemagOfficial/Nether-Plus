@@ -1,0 +1,33 @@
+{
+  "group": "netherplus",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "netherplus:warped_planks"
+    },
+    "3": {
+      "item": "netherplus:warped_planks"
+    },
+    "4": {
+      "item": "netherplus:warped_planks"
+    },
+    "6": {
+      "item": "netherplus:warped_planks"
+    },
+    "7": {
+      "item": "netherplus:warped_planks"
+    },
+    "8": {
+      "item": "netherplus:warped_planks"
+    }
+  },
+  "result": {
+    "item": "netherplus:warped_stairs",
+    "count": 4
+  }
+}

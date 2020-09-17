@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "netherplus:blocks/stripped_crimson_stem_top",
+    "up": "netherplus:blocks/stripped_crimson_stem_top",
+    "north": "netherplus:blocks/stripped_crimson_stem",
+    "east": "netherplus:blocks/stripped_crimson_stem",
+    "south": "netherplus:blocks/stripped_crimson_stem",
+    "west": "netherplus:blocks/stripped_crimson_stem",
+    "particle": "netherplus:blocks/stripped_crimson_stem_top"
+  }
+}

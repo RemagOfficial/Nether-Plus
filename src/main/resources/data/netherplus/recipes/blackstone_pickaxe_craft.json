@@ -1,0 +1,30 @@
+{
+  "group": "netherplus",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "netherplus:blackstone"
+    },
+    "1": {
+      "item": "netherplus:blackstone"
+    },
+    "2": {
+      "item": "netherplus:blackstone"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:stone_pickaxe",
+    "count": 1
+  }
+}

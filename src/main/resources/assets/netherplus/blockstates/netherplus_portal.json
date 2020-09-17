@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "netherplus:block/netherplus_portal_ew"
+    },
+    "axis=x": {
+      "model": "netherplus:block/netherplus_portal_ns"
+    }
+  }
+}

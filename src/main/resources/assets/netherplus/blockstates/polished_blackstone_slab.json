@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "netherplus:block/polished_blackstone_slab"
+    },
+    "type=top": {
+      "model": "netherplus:block/polished_blackstone_slab_top"
+    },
+    "type=double": {
+      "model": "netherplus:block/polished_blackstone_slab_full"
+    }
+  }
+}

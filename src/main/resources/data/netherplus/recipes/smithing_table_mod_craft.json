@@ -1,0 +1,33 @@
+{
+  "group": "netherplus",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "tag": "planks"
+    },
+    "3": {
+      "tag": "planks"
+    },
+    "4": {
+      "tag": "planks"
+    },
+    "5": {
+      "tag": "planks"
+    }
+  },
+  "result": {
+    "item": "netherplus:smithing_table_mod",
+    "count": 1
+  }
+}

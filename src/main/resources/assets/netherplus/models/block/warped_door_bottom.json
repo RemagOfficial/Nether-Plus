@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "netherplus:blocks/warped_door_bottom",
+    "top": "netherplus:blocks/warped_door_top"
+  }
+}

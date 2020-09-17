@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "netherplus:blocks/warped_fungi",
+    "particle": "netherplus:blocks/warped_fungi"
+  }
+}

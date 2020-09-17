@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "netherplus:blocks/ancient_debris_top",
+    "up": "netherplus:blocks/ancient_debris_top",
+    "north": "netherplus:blocks/ancient_debris_side",
+    "east": "netherplus:blocks/ancient_debris_side",
+    "south": "netherplus:blocks/ancient_debris_side",
+    "west": "netherplus:blocks/ancient_debris_side",
+    "particle": "netherplus:blocks/ancient_debris_top"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "netherplus:blocks/polished_blackstone",
+    "top": "netherplus:blocks/polished_blackstone",
+    "side": "netherplus:blocks/polished_blackstone"
+  }
+}

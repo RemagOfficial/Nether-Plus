@@ -1,0 +1,9 @@
+{
+  "group": "netherplus",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "netherplus:blackstone"
+  },
+  "result": "netherplus:blackstone_slab"
+}

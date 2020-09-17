@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "netherplus:block/warped_slab"
+    },
+    "type=top": {
+      "model": "netherplus:block/warped_slab_top"
+    },
+    "type=double": {
+      "model": "netherplus:block/warped_slab_full"
+    }
+  }
+}

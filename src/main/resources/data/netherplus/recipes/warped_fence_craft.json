@@ -1,0 +1,32 @@
+{
+  "group": "netherplus",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "netherplus:warped_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "netherplus:warped_planks"
+    },
+    "3": {
+      "item": "netherplus:warped_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "netherplus:warped_planks"
+    }
+  },
+  "result": {
+    "item": "netherplus:warped_fence",
+    "count": 3
+  }
+}

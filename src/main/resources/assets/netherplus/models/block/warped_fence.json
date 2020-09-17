@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "netherplus:blocks/warped_planks",
+    "particle": "netherplus:blocks/warped_planks"
+  }
+}

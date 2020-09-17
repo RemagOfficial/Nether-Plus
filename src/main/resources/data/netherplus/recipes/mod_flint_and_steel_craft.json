@@ -1,0 +1,23 @@
+{
+  "group": "netherplus",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "23"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "item": "minecraft:flint"
+    },
+    "3": {
+      "item": "minecraft:flint"
+    }
+  },
+  "result": {
+    "item": "netherplus:netherplus",
+    "count": 1
+  }
+}

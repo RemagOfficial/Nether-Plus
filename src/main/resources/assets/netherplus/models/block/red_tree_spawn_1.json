@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "netherplus:blocks/nothing",
+    "particle": "netherplus:blocks/nothing"
+  }
+}

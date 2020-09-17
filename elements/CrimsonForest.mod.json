@@ -1,0 +1,67 @@
+{
+  "_fv": 11,
+  "_type": "biome",
+  "definition": {
+    "groundBlock": {
+      "value": "CUSTOM:CrimsonNylium"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.NETHERRACK"
+    },
+    "generateLakes": false,
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 7,
+    "spawnVines": false,
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeStem": {
+      "value": "CUSTOM:CrimsonStem"
+    },
+    "treeBranch": {
+      "value": "Blocks.NETHER_WART_BLOCK"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "airColor": {
+      "value": -52429,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 3,
+    "grassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "rainingPossibility": 0.0,
+    "temperature": 2.0,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "spawnBiome": false,
+    "biomeWeight": 15,
+    "biomeType": "DESERT",
+    "biomeCategory": "NETHER",
+    "parent": {
+      "value": "nether"
+    },
+    "biomeDictionaryTypes": [
+      "NETHER"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityPigZombie"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 20,
+        "spawnType": "monster"
+      }
+    ]
+  }
+}

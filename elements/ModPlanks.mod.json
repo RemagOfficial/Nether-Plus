@@ -1,0 +1,19 @@
+{
+  "_fv": 11,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:WarpedPlanks"
+      },
+      {
+        "value": "CUSTOM:CrimsonPlanks"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "planks",
+    "namespace": "minecraft"
+  }
+}

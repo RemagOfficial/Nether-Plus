@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "netherplus:blocks/polished_blackstone",
+    "particle": "netherplus:blocks/polished_blackstone"
+  }
+}

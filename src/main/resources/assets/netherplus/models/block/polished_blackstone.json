@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "netherplus:blocks/polished_blackstone",
+    "particle": "netherplus:blocks/polished_blackstone"
+  }
+}

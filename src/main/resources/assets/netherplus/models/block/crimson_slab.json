@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "netherplus:blocks/crimson_planks",
+    "top": "netherplus:blocks/crimson_planks",
+    "side": "netherplus:blocks/crimson_planks"
+  }
+}

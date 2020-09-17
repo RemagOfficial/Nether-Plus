@@ -1,0 +1,39 @@
+{
+  "group": "netherplus",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "netherplus:blackstone"
+    },
+    "1": {
+      "item": "netherplus:blackstone"
+    },
+    "2": {
+      "item": "netherplus:blackstone"
+    },
+    "3": {
+      "item": "netherplus:blackstone"
+    },
+    "5": {
+      "item": "netherplus:blackstone"
+    },
+    "6": {
+      "item": "netherplus:blackstone"
+    },
+    "7": {
+      "item": "netherplus:blackstone"
+    },
+    "8": {
+      "item": "netherplus:blackstone"
+    }
+  },
+  "result": {
+    "item": "minecraft:furnace",
+    "count": 1
+  }
+}

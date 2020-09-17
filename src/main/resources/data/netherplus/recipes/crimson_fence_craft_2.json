@@ -1,0 +1,32 @@
+{
+  "group": "netherplus",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "netherplus:crimson_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "netherplus:crimson_planks"
+    },
+    "3": {
+      "item": "netherplus:crimson_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "netherplus:crimson_planks"
+    }
+  },
+  "result": {
+    "item": "netherplus:crimson_fence",
+    "count": 3
+  }
+}

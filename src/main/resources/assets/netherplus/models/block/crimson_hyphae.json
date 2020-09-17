@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "netherplus:blocks/cimson_stem",
+    "particle": "netherplus:blocks/cimson_stem"
+  }
+}

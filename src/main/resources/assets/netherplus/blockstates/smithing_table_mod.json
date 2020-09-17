@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "netherplus:block/smithing_table_mod"
+    },
+    "facing=east": {
+      "model": "netherplus:block/smithing_table_mod",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "netherplus:block/smithing_table_mod",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "netherplus:block/smithing_table_mod",
+      "y": 270
+    }
+  }
+}

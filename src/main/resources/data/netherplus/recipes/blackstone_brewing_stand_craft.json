@@ -1,0 +1,26 @@
+{
+  "group": "netherplus",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:blaze_rod"
+    },
+    "3": {
+      "item": "netherplus:blackstone"
+    },
+    "4": {
+      "item": "netherplus:blackstone"
+    },
+    "5": {
+      "item": "netherplus:blackstone"
+    }
+  },
+  "result": {
+    "item": "minecraft:brewing_stand",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "netherplus",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "netherplus:stripped_crimson_hyphae"
+    }
+  ],
+  "result": {
+    "item": "netherplus:crimson_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "netherplus:blocks/stripped_warped_stem",
+    "particle": "netherplus:blocks/stripped_warped_stem"
+  }
+}
